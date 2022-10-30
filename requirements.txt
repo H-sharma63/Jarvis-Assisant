@@ -32,7 +32,7 @@ llvmlite==0.35.0
 lxml==4.6.1
 Markdown==3.3.3
 matplotlib==3.3.4
-numpy==1.18.5
+numpy==1.22.2
 oauthlib==3.1.0
 opencv-contrib-python==4.5.1.48
 opt-einsum==3.3.0
@@ -76,7 +76,7 @@ tqdm==4.57.0
 transformers==4.3.2
 typing-extensions==3.7.4.3
 tzlocal==2.1
-urllib3==1.26.3
+urllib3==1.26.5
 Werkzeug==1.0.1
 wikipedia==1.4.0
 wrapt==1.12.1
