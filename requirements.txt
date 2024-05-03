@@ -72,7 +72,7 @@ termcolor==1.1.0
 threadpoolctl==2.1.0
 tokenizers==0.10.1
 torch==1.7.1
-tqdm==4.57.0
+tqdm==4.66.3
 transformers==4.3.2
 typing-extensions==3.7.4.3
 tzlocal==2.1
